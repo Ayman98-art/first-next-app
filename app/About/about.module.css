@@ -1,0 +1,20 @@
+.layoutPage{
+    height: calc(100vh - 95px);
+}
+
+.parabout{
+    font-size: 18px;
+    font-weight: 300;
+    padding: 15px;
+    line-height: 1.5;
+    word-break: break-all;
+}
+
+.haedabout{
+    padding: 12px;
+}
+
+.layoutPage hr{
+    width: 97%;
+    margin: auto;
+}

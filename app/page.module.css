@@ -1,0 +1,15 @@
+.paraHome{
+    font-size: 18px;
+    font-weight: 300;
+    padding: 15px;
+    line-height: 1.5;
+    word-break: break-all;
+}
+
+.headHome{
+    padding: 12px;
+}
+
+.LyoutPage{
+    height: calc(100vh - 95px);
+}
